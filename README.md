@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @vquelque
-- 👀 I’m interested in Blockchain Security, Finance, Music, Entrepreneurship, Developing cool products and much more ...
-- 🌱 I’m currently enjoying life, experimenting, and building (cool) stuff.
-- 💞️ I’m looking to collaborate on (anything) !
+- 👀 I spend my time learning, hacking stuf, and developing cool shit! :D 
 - 📫 How to reach me ? [valentinquelquejay.me](https://valentinquelquejay.me)
